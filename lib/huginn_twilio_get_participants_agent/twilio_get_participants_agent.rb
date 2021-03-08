@@ -11,7 +11,7 @@ module Agents
 
     def default_options
       {
-        'accound_sid' => 'ACxxxxxxxxxxxxxxxxxxxxxx',
+        'account_sid' => 'ACxxxxxxxxxxxxxxxxxxxxxx',
         'auth_token' => 'xxxxxxxxxxxxxxxxxxxxxxxx',
         'expected_receive_period_in_days' => '10',
         'conversation_sid' => '{{ conversation_sid }}'
